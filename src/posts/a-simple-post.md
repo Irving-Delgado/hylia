@@ -2,6 +2,7 @@
 title: A simple post
 date: 2020-06-08
 tags:
+- new-test-tag
 - demo-content
 - simple-post
 - blog
