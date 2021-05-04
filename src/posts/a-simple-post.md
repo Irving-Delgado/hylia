@@ -20,7 +20,7 @@ A list of stuff:
 
 - Sed posuere consectetur est at lobortis
 - Aenean lacinia bibendum nulla sed consectetur
-- Sed posuere consectetur est at lobortis
+ - Sed posuere consectetur est at lobortis
 
 How about an ordered list of stuff:
 
